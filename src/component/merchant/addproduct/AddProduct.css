@@ -1,0 +1,36 @@
+#main-div{
+  margin-top: 80px;
+}
+
+#Add-new-btn {
+  border-radius: 5px;
+  cursor: pointer;
+  border-style: solid;
+  background-color: aliceblue;
+  color: Black;
+  margin-left: 80px;
+padding: 20px;
+  font-weight: 500;
+  font-size: 17px;
+  border: 0.5px solid black;
+  margin-top: 20px;
+}
+#Add-new-btn:hover {
+  border: 0.5px solid red;
+}
+#Add-from-catalog-btn {
+  border-radius: 5px;
+  cursor: pointer;
+  border-style: solid;
+  background-color: aliceblue;
+  color: Black;
+  margin-left: 80px;
+ padding: 20px;
+  font-weight: 500;
+  font-size: 17px;
+  margin-top: 300px;
+  border: 0.5px solid black;
+}
+#Add-from-catalog-btn:hover {
+  border: 0.5px solid red;
+}

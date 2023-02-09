@@ -1,0 +1,72 @@
+#search-merchant {
+  border-radius: 7px;
+  cursor: pointer;
+  border-style: solid;
+  background-color: aliceblue;
+  color: Black;
+  font-size: 17px;
+  border: 0.5px solid rgb(1, 1, 1);
+}
+#search-merchant:hover {
+  border: 0.5px solid red;
+}
+#merchant-page-header2 {
+  background-color: #2a5179;
+  display: flex;
+  /* gap: 100px; */
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+#merchant-page-header1 {
+  font-weight: bolder;
+}
+#search-btn {
+  /* border-radius: 7px; */
+  cursor: pointer;
+  /* border-style: solid; */
+  /* background-color: aliceblue; */
+  color: rgb(251, 249, 249);
+  height: 30px;
+  width: 61px;
+  font-weight: 500;
+  font-size: 17px;
+  /* border: 0.5px solid black; */
+}
+#search-btn:hover {
+  /* border: 0.5px solid red; */
+}
+#add-product:hover {
+  /* border: 0.5px solid red; */
+  background-color: aliceblue;
+  color: black;
+}
+#all-products:hover {
+  /* border: 0.5px solid red; */
+}
+#add-product {
+  /* border-radius: 7px; */
+  cursor: pointer;
+  /* border-style: solid; */
+  /* background-color: aliceblue; */
+  color: rgb(253, 252, 252);
+  margin-left: 80px;
+  height: 30px;
+  width: 106px;
+  font-weight: 500;
+  font-size: 17px;
+  /* border: 0.5px solid rgb(15, 15, 15); */
+}
+
+#all-products {
+  margin-right: 80px;
+  border-radius: 7px;
+  cursor: pointer;
+  background-color: aliceblue;
+  color: Black;
+  height: 30px;
+  width: 100px;
+  font-weight: 500;
+  font-size: 17px;
+  border: 0.5px solid rgb(2, 1, 1);
+}

@@ -1,0 +1,11 @@
+#add {
+  background-color: #037210;
+  color: #04973c;
+
+  cursor: pointer;
+  border: solid;
+}
+#image-wrapper {
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,16 @@
+.delete {
+  background-color: #a90b0b;
+  color: #a90b0b;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.update {
+  background-color: #037210;
+  color: #04973c;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#image-wrapper {
+  height: 100px;
+  width: 100px;
+}
